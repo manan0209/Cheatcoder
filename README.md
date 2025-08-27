@@ -35,11 +35,6 @@ CheatCoder is a professional desktop application designed to help developers sol
 
 2. Install and launch CheatCoder
 
-3. Configure your AI provider:
-   - **OpenAI**: Enter your API key in settings
-   - **Google Gemini**: Configure Gemini API access
-   - **Anthropic Claude**: Set up Claude API credentials
-
 ### Basic Usage
 1. **Take Screenshot**: `Ctrl+E` / `Cmd+E`
 2. **Analyze Problem**: `Ctrl+Enter` / `Cmd+Enter`  
